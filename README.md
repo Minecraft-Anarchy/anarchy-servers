@@ -7,7 +7,7 @@ Anarchy Servers
 </div>
 
 ### News
-I'm open to adding clients from discord servers (even if its paid). Make a new issue or pull request following the Template.
+Suggest some servers.
 
 ## Some Info
 * If you have a suggestion make an issue (WITH THE TEMPLATE).
@@ -24,4 +24,4 @@ Template:
 
 | Name | Version | Vanilla? | IP |
 | :--: | :-----: | :------: | :-: |
-| Name | **Version** | YES OR NO | Server IP |
+| 2b2t | **1.12.2** | NO | 2b2t.org |
