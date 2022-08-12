@@ -16,7 +16,7 @@ Suggest some servers.
 
 Template:
 
-```| Name | **Version** | YES OR NO | Server IP |```
+```| Name | **Version** | YES OR NO | `Server IP` |```
 
 -------
 
@@ -24,4 +24,4 @@ Template:
 
 | Name | Version | Vanilla? | IP |
 | :--: | :-----: | :------: | :-: |
-| 2b2t | **1.12.2** | NO | 2b2t.org |
+| 2b2t | **1.12.2** | NO | `2b2t.org` |
