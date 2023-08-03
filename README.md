@@ -24,6 +24,7 @@ Template:
 
 | Name | Version | Vanilla? | IP |
 | :--: | :-----: | :------: | :-: |
+| 0b0t.org | **1.12.2** | NO | `0b0t.org` |
 | 2b2t | **1.12.2** | NO | `2b2t.org` |
 | 5b5t | **1.12.2** | NO | `5b5t.org` |
 | 9b9t | **1.12.2** | NO | `9b9t.org` |
