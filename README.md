@@ -31,4 +31,4 @@ Template:
 | 6b6t | **1.8-19** | NO | `6b6t.org` |
 | 8b8t | **1.8-1.19** | NO | `8b8t.me` |
 | Constantiam | **1.12.2** | YES | `constantiam.net` |
-
+| Sanarchy | 1.14.4 | YES | `sanarchy.mysrv.us` |
